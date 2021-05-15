@@ -18,8 +18,8 @@ My name is Axel, I'm from Mexico and I'm a Student Engineering Systems.
 #### Back End
 * PHP 
 * Ajax
-* Learn Some Java
+* Learning Some Python
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://fredrikson.com.ar)
+Find all of my socials and resume in my [website](https://ingenieroplus.com)
