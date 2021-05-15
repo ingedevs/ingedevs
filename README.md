@@ -18,7 +18,7 @@ My name is Axel, I'm from Mexico and I'm a Student Engineering Systems.
 #### Back End
 * PHP 
 * Ajax
-* Some Java
+* Learn Some Java
 
 ## Contact
 
