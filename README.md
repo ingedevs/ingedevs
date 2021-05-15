@@ -8,11 +8,8 @@ My name is Axel, I'm from Mexico and I'm a Student Engineering Systems.
 
 ## Skills
 
-* Using Kubernetes in Production since 2016
-* AWS, Terraform, Docker, all the cloud stuff :) 
-* Critical thinking, decision-making and problem solving skills
+* PHP 
 * Some Python coding
-* Special skills and experience in fast growing startups.
 
 ## Contact
 
