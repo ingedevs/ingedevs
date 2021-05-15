@@ -8,7 +8,7 @@ My name is Axel, I'm from Mexico and I'm a Student Engineering Systems.
 
 ## Skills
 
-* ### Front End
+### Front End
 * PHP 
 * Some Python coding
 
