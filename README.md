@@ -13,7 +13,7 @@ My name is Axel, I'm from Mexico and I'm a Student Engineering Systems.
 
 #### Back End
 * PHP 
-* Ajax
+* AJAX
 * Learning Some Python
 
 ## Contact
