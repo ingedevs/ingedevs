@@ -35,3 +35,4 @@ Others </br>
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=axelroman20.axelroman20)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8CVKCE)
