@@ -1,6 +1,5 @@
 ## Hello, I'm Axel Román <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img src="https://flagicons.lipis.dev/flags/4x3/mx.svg" width="25px"> 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8CVKCE)
+I am an experienced Flutter developer for Android and iOS. I also have experience building REST API services with NestJS and MongoDB. My main focus and greatest strength is developing high quality mobile applications - I am passionate about creating intuitive and user-centric solutions!
 
 
 ## ⚡ Skills:
