@@ -1,33 +1,34 @@
-## Hello, I'm Axel Román <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img src="https://flagicons.lipis.dev/flags/4x3/mx.svg" width="25px"> 
-I am an experienced Flutter developer for Android and iOS. I also have experience building REST API services with NestJS and MongoDB. My main focus and greatest strength is developing high quality mobile applications - I am passionate about creating intuitive and user-centric solutions!
+<h1 align="center">Hi 👋, I'm Axel Roman 
+<img src="https://flagicons.lipis.dev/flags/4x3/mx.svg" width="25px">
+</h1>
+<h3 align="center">A passionate mobile app developer from México</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelroman20&label=Profile%20Views&color=0eb429&style=flat" alt="axelroman20" /> </p>
 
-## ⚡ Skills:
+- 🔭 I’m currently working on **NetRabbit SA de CV**
 
-<!-- Mobile </br> -->
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-[![Android](https://img.shields.io/badge/Android-2fA37d?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![iOS](https://img.shields.io/badge/iOS-202020?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+- 🌱 I’m currently learning **Clean Code and MicroService**
 
-<!-- Web </br> -->
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![TYPESCRIPT](https://img.shields.io/badge/Typescript-0871cd?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
+- 💬 Ask me about **Flutter & Dart**
 
-<!-- Databases </br> -->
-[![MySQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+- ⚡ Fun fact **I like dogs 🐕**
 
-<!-- Systems </br> -->
-[![MACOS](https://img.shields.io/badge/macOS-202020?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![WINDOWS](https://img.shields.io/badge/windows-0871cd?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- Others </br> -->
-[![Git](https://img.shields.io/badge/Git-ff6340?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
-
----
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=axelroman20.axelroman20)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelroman20&show_icons=true&theme=dark&locale=en&layout=compact" alt="axelroman20" /></p>
