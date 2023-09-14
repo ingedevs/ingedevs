@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingedevs&theme=dark&layout=compact" alt="ingedevs" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ingedevs&repo=Flutter-Cinemapedia&theme=dark" alt="ingedevs" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ingedevs&repo=Flutter-Cinemapedia&theme=dark)](https://github.com/ingedevs/github-readme-stats)
