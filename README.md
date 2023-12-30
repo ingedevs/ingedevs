@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">A passionate mobile app developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelroman20&label=Profile%20Views&color=0eb429&style=flat" alt="axelroman20" /> </p>
-
 - 🔭 I’m currently working on **NetRabbit SA de CV**
 
 - 🌱 I’m currently learning **Clean Code and MicroService**
